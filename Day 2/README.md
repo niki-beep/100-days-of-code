@@ -1,10 +1,10 @@
 **1. Variables and Constants in JavaScript** : 
 
-    The difference between variables and constant is that we can change the value of the variables if and when we need to. While in the case of constants, we cannot easily change the value.
+The difference between variables and constant is that we can change the value of the variables if and when we need to. While in the case of constants, we cannot easily change the value.
 
-    In JS the variables are defined using the let keyword. While constants are defined using the const keyword.
+In JS the variables are defined using the let keyword. While constants are defined using the const keyword.
 
-    If we want to change the value of the constant, it is a better practice to never override it, instead just remove the const keyword.
+If we want to change the value of the constant, it is a better practice to never override it, instead just remove the const keyword.
 
 **2. Basic Sign up Form using the knowledge of variables:** 
 
